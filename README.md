@@ -48,8 +48,8 @@ SmartCare 是一个现代化的智能客服系统，旨在提供高效、智能�
 
 1. 克隆项目
 ```bash
-git clone https://github.com/your-username/smart-cs-system.git
-cd smart-cs-system/frontend
+git clone git@github.com:kttkgn/smartcare-frontend.git
+cd smartcare-frontend
 ```
 
 2. 安装依赖
